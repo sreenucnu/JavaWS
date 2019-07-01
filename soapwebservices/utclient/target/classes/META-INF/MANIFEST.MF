@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: utclient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sreenu
+Implementation-Vendor-Id: com.bharath.ws.soap
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/utclient/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
